@@ -1,0 +1,25 @@
+\t (04:32:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (04:32:04)     Journal start - Thu Jul 18 21:43:56 2019
+\t (04:32:04)         Host=USER-PC User=user Pid=4308 CPUs=4
+\t (04:32:04) CmdLine= allegro.exe -p .
+\t (04:32:04) 
+\d (04:32:04) Design opened: C:/Users/user/Desktop/avrusb500_r02/avrusb500_r02/Allegro/allegro/AVRUSB500_orig.brd
+\i (04:32:04) generaledit 
+\i (04:32:05) zoom out 1 
+\i (04:32:05) setwindow pcb
+\i (04:32:05) zoom out 20.883 30.406
+\i (04:32:05) trapsize 624
+\i (04:32:06) zoom in 1 
+\i (04:32:06) setwindow pcb
+\i (04:32:06) zoom in 39.796 25.987
+\i (04:32:06) trapsize 312
+\i (04:32:06) zoom out 1 
+\i (04:32:06) setwindow pcb
+\i (04:32:06) zoom out 39.047 26.049
+\i (04:32:06) trapsize 624
+\i (04:32:08) drag_start grid -8.237 45.949
+\i (04:32:08) drag_stop 111.783 -10.194
+\i (04:32:09) pick grid 110.162 -7.200
+\t (04:32:09) last pick:  109.220 -7.620
+\i (04:32:50) exit 
+\t (04:32:51)     Journal end - Thu Jul 18 21:44:43 2019

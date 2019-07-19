@@ -1,0 +1,37 @@
+\t (03:54:15) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (03:54:15)     Journal start - Thu Jul 18 21:06:07 2019
+\t (03:54:15)         Host=USER-PC User=user Pid=4308 CPUs=4
+\t (03:54:15) CmdLine= allegro.exe -p .
+\t (03:54:15) 
+\d (03:54:15) Design opened: C:/Users/user/Desktop/avrusb500_r02/avrusb500_r02/Allegro/allegro/AVRUSB500_orig.brd
+\i (03:54:15) generaledit 
+\i (03:54:16) zoom out 1 
+\i (03:54:16) setwindow pcb
+\i (03:54:16) zoom out 20.883 34.461
+\i (03:54:16) trapsize 624
+\i (03:54:27) zoom in 1 
+\i (03:54:27) setwindow pcb
+\i (03:54:27) zoom in 96.687 12.013
+\i (03:54:27) trapsize 312
+\i (03:54:28) zoom out 1 
+\i (03:54:28) setwindow pcb
+\i (03:54:28) zoom out 85.709 15.694
+\i (03:54:28) trapsize 624
+\i (03:55:58) pick grid 103.175 8.271
+\t (03:55:58) last pick:  104.140 7.620
+\i (03:55:58) pick grid 106.169 13.635
+\t (03:55:58) last pick:  106.680 12.700
+\i (03:55:59) drag_start grid 109.039 -3.332
+\i (03:56:00) drag_stop -25.205 49.691
+\i (03:56:01) pick grid 116.400 14.259
+\t (03:56:01) last pick:  116.840 15.240
+\i (03:56:33) status 
+\i (03:56:34) generaledit 
+\i (03:56:44) setwindow form.status
+\i (03:56:44) FORM status done  
+\i (03:56:49) setwindow pcb
+\i (03:56:49) opencd C:/USERS/USER/DESKTOP/WORKSPACE/AVRUSB500/allegro/AVRUSB500.brd 
+\t (03:56:49) Opening existing design...
+\t (03:56:49) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (03:56:49) trapsize 4344
+\t (03:56:49)     Journal end - Thu Jul 18 21:08:41 2019

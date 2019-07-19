@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"OFFPAGELEFT-R","OffPage","PAGE1","1","SCHEMATIC1","U1.25","520","450","3B","Property Not Present"
+"OFFPAGELEFT-L","OffPage","PAGE2","2","SCHEMATIC1","IC1.2,IC1.3","250","160","4D","kk3B1,4D2kk"
+"OFFPAGELEFT-L","OffPage","PAGE2","2","SCHEMATIC1","IC1.2,IC1.3","240","150","4D","kk3B1,4D2kk"
+"OFFPAGELEFT-L","OffPage","PAGE1","1","SCHEMATIC1","U1.24","620","450","3B","kk4D2kk"

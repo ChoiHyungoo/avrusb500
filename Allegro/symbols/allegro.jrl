@@ -1,0 +1,64 @@
+\t (00:04:43) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:04:43)     Journal start - Thu Jul 18 13:45:59 2019
+\t (00:04:43)         Host=USER-PC User=user Pid=8092 CPUs=4
+\t (00:04:43) CmdLine= allegro.exe -p .
+\t (00:04:43) 
+\d (00:04:43) Design opened: C:/Users/user/Desktop/avrusb500_r02/avrusb500_r02/Allegro/symbols/micro_usb.brd
+\i (00:04:43) generaledit 
+\i (00:04:48) drag_start grid -4.439 39.903
+\i (00:04:48) drag_stop -21.188 51.232
+\i (00:04:49) pick grid -1.076 41.013
+\t (00:04:49) last pick:  0.000 40.640
+\i (00:04:52) pick grid -12.471 43.853
+\t (00:04:52) last pick:  -12.700 43.180
+\i (00:04:57) place manual 
+\t (00:04:58) Selected item not valid for current operation, ignored: Filled Rectangle "J*, Package Geometry/Place_Bound_Top"
+\t (00:04:58) No valid items selected for the current operation, exiting.
+\i (00:04:58) generaledit 
+\i (00:04:59) place manual 
+\t (00:04:59) Selected item not valid for current operation, ignored: Filled Rectangle "J*, Package Geometry/Place_Bound_Top"
+\t (00:04:59) No valid items selected for the current operation, exiting.
+\i (00:05:00) generaledit 
+\i (00:05:02) pick grid 2.319 41.927
+\t (00:05:02) last pick:  2.540 43.180
+\i (00:05:05) place manual 
+\i (00:05:06) setwindow form.plc_manual
+\i (00:05:06) FORM plc_manual advanced_settings  
+\i (00:05:07) FORM plc_manual library YES 
+\i (00:05:07) FORM plc_manual placement_list  
+\i (00:05:08) FORM plc_manual tree  'Format symbols' 
+\i (00:05:10) FORM plc_manual categories Package symbols 
+\i (00:05:11) FORM plc_manual categories Mechanical symbols 
+\i (00:05:11) FORM plc_manual categories Format symbols 
+\i (00:05:12) FORM plc_manual categories Mechanical symbols 
+\i (00:05:12) FORM plc_manual categories Package symbols 
+\i (00:05:13) FORM plc_manual tree  BLKCON100VHTM1SQSW1005 'Package symbols' 
+\i (00:06:01) FORM plc_manual cancel  
+\i (00:06:01) setwindow pcb
+\i (00:06:01) generaledit 
+\i (00:06:08) move 
+\t (00:06:08) Select element(s) to move.
+\i (00:06:14) xname_flush 
+\i (00:06:17) pick grid 1.013 42.710
+\t (00:06:17) last pick:  0.000 43.180
+\i (00:06:18) prepopup 0.622 42.515
+\i (00:06:21) done 
+\i (00:06:21) generaledit 
+\i (00:06:22) pick grid -0.293 42.025
+\t (00:06:22) last pick:  0.000 43.180
+\i (00:06:24) xdehilite 
+\i (00:06:24) xname_flush 
+\i (00:06:24) done 
+\i (00:06:24) generaledit 
+\i (00:37:04) place manual 
+\i (00:37:05) setwindow form.plc_manual
+\i (00:37:05) FORM plc_manual advanced_settings  
+\i (00:37:06) FORM plc_manual library YES 
+\i (00:37:06) FORM plc_manual placement_list  
+\i (00:37:13) FORM plc_manual cancel  
+\i (00:37:13) setwindow pcb
+\i (00:37:13) generaledit 
+\i (00:37:14) exit 
+\e (00:37:14) Do you want to save the changes you made to micro_usb.brd?
+\i (00:37:15) fillin no 
+\t (00:37:16)     Journal end - Thu Jul 18 14:18:32 2019
